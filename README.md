@@ -3,13 +3,12 @@
 <hr>
 <br><br>
 
-<b>-> Bu web site altının güncel kur fiyatlarını sunar bize webscrap ile. </b>
+<b>-> Bu web site birimler arası miktar çevirimi yapar webscrap ile. </b>
 <br><br><hr>
 
 -> Bu proje NODE-JS ile yapılmıştır..
 -> API kaynaklarından güncel veriler çekilerek kullanıcıya sunulur!
--> Mailinizi bildirip mailinize gelen TOKEN li link ile giriş yapmak zorundasınız!
--> Token geçerlilik süresi 5 DK'dır!!!
+
 <br>
 
 
