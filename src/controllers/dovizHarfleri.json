@@ -1,0 +1,399 @@
+[
+    "TRY","100",
+    "USD", [
+        "Buying", "27,7558",
+        "Type", "Currency",
+        "Selling", "27,7727",
+        "Change", "%0,14"
+    ],
+    "EUR", [
+        "Buying", "29,1695",
+        "Type", "Currency",
+        "Selling", "29,2415",
+        "Change", "%-0,22"
+    ],
+    "GBP", [
+        "Buying", "33,7302",
+        "Type", "Currency",
+        "Selling", "33,8629",
+        "Change", "%0,04"
+    ],
+    "CHF", [
+        "Buying", "30,7596",
+        "Type", "Currency",
+        "Selling", "30,7825",
+        "Change", "%0,83"
+    ],
+    "CAD", [
+        "Buying", "20,3170",
+        "Type", "Currency",
+        "Selling", "20,3323",
+        "Change", "%0,37"
+    ],
+    "RUB", [
+        "Buying", "0,2845",
+        "Type", "Currency",
+        "Selling", "0,2846",
+        "Change", "%0,33"
+    ],
+    "AED", [
+        "Buying", "7,5563",
+        "Type", "Currency",
+        "Selling", "7,5658",
+        "Change", "%0,17"
+    ],
+    "AUD", [
+        "Buying", "17,4752",
+        "Type", "Currency",
+        "Selling", "17,4889",
+        "Change", "%-0,14"
+    ],
+    "DKK", [
+        "Buying", "3,9102",
+        "Type", "Currency",
+        "Selling", "3,9131",
+        "Change", "%-0,07"
+    ],
+    "SEK", [
+        "Buying", "2,5101",
+        "Type", "Currency",
+        "Selling", "2,5207",
+        "Change", "%-0,19"
+    ],
+    "NOK", [
+        "Buying", "2,5247",
+        "Type", "Currency",
+        "Selling", "2,5467",
+        "Change", "%0,40"
+    ],
+    "JPY", [
+        "Buying", "18,4900",
+        "Type", "Currency",
+        "Selling", "18,7000",
+        "Change", "%0,38"
+    ],
+    "KWD", [
+        "Buying", "89,6410",
+        "Type", "Currency",
+        "Selling", "90,0032",
+        "Change", "%0,17"
+    ],
+    "ZAR", [
+        "Buying", "1,4593",
+        "Type", "Currency",
+        "Selling", "1,4608",
+        "Change", "%0,14"
+    ],
+    "BHD", [
+        "Buying", "73,6326",
+        "Type", "Currency",
+        "Selling", "73,6774",
+        "Change", "%0,16"
+    ],
+    "LYD", [
+        "Buying", "5,6929",
+        "Type", "Currency",
+        "Selling", "5,6964",
+        "Change", "%-0,59"
+    ],
+    "SAR", [
+        "Buying", "7,3900",
+        "Type", "Currency",
+        "Selling", "7,4162",
+        "Change", "%0,16"
+    ],
+    "IQD", [
+        "Buying", "0,0212",
+        "Type", "Currency",
+        "Selling", "0,0212",
+        "Change", "%0,06"
+    ],
+    "ILS", [
+        "Buying", "7,0013",
+        "Type", "Currency",
+        "Selling", "7,0055",
+        "Change", "%0,30"
+    ],
+    "IRR", [
+        "Buying", "0,0007",
+        "Type", "Currency",
+        "Selling", "0,0007",
+        "Change", "%0,00"
+    ],
+    "INR", [
+        "Buying", "0,3327",
+        "Type", "Currency",
+        "Selling", "0,3329",
+        "Change", "%0,05"
+    ],
+    "MXN", [
+        "Buying", "1,5344",
+        "Type", "Currency",
+        "Selling", "1,5353",
+        "Change", "%-0,44"
+    ],
+    "HUF", [
+        "Buying", "0,0752",
+        "Type", "Currency",
+        "Selling", "0,0752",
+        "Change", "%-0,33"
+    ],
+    "NZD", [
+        "Buying", "16,3327",
+        "Type", "Currency",
+        "Selling", "16,3427",
+        "Change", "%-0,57"
+    ],
+    "BRL", [
+        "Buying", "5,4640",
+        "Type", "Currency",
+        "Selling", "5,4673",
+        "Change", "%-0,51"
+    ],
+    "IDR", [
+        "Buying", "0,0018",
+        "Type", "Currency",
+        "Selling", "0,0018",
+        "Change", "%0,35"
+    ],
+    "CZK", [
+        "Buying", "1,1814",
+        "Type", "Currency",
+        "Selling", "1,1821",
+        "Change", "%-0,14"
+    ],
+    "PLN", [
+        "Buying", "6,4384",
+        "Type", "Currency",
+        "Selling", "6,4423",
+        "Change", "%0,14"
+    ],
+    "RON", [
+        "Buying", "5,8701",
+        "Type", "Currency",
+        "Selling", "5,8794",
+        "Change", "%-0,14"
+    ],
+    "CNY", [
+        "Buying", "3,8032",
+        "Type", "Currency",
+        "Selling", "3,8044",
+        "Change", "%0,08"
+    ],
+    "ARS", [
+        "Buying", "0,0793",
+        "Type", "Currency",
+        "Selling", "0,0793",
+        "Change", "%0,15"
+    ],
+    "ALL", [
+        "Buying", "0,2761",
+        "Type", "Currency",
+        "Selling", "0,2763",
+        "Change", "%-0,06"
+    ],
+    "BAM", [
+        "Buying", "14,9265",
+        "Type", "Currency",
+        "Selling", "14,9356",
+        "Change", "%-4,48"
+    ],
+    "CLP", [
+        "Buying", "0,0295",
+        "Type", "Currency",
+        "Selling", "0,0295",
+        "Change", "%-0,06"
+    ],
+    "COP", [
+        "Buying", "0,0066",
+        "Type", "Currency",
+        "Selling", "0,0066",
+        "Change", "%1,16"
+    ],
+    "CRC", [
+        "Buying", "0,0523",
+        "Type", "Currency",
+        "Selling", "0,0523",
+        "Change", "%0,58"
+    ],
+    "DZD", [
+        "Buying", "0,2013",
+        "Type", "Currency",
+        "Selling", "0,2014",
+        "Change", "%0,15"
+    ],
+    "EGP", [
+        "Buying", "0,8985",
+        "Type", "Currency",
+        "Selling", "0,8991",
+        "Change", "%0,18"
+    ],
+    "HKD", [
+        "Buying", "3,5473",
+        "Type", "Currency",
+        "Selling", "3,5495",
+        "Change", "%0,13"
+    ],
+    "ISK", [
+        "Buying", "0,1994",
+        "Type", "Currency",
+        "Selling", "0,1995",
+        "Change", "%0,10"
+    ],
+    "HRK", [
+        "Buying", "3,4425",
+        "Type", "Currency",
+        "Selling", "3,4632",
+        "Change", "%0,05"
+    ],
+    "JOD", [
+        "Buying", "39,1147",
+        "Type", "Currency",
+        "Selling", "39,1385",
+        "Change", "%-0,07"
+    ],
+    "KRW", [
+        "Buying", "0,0205",
+        "Type", "Currency",
+        "Selling", "0,0205",
+        "Change", "%-0,15"
+    ],
+    "KZT", [
+        "Buying", "0,0583",
+        "Type", "Currency",
+        "Selling", "0,0583",
+        "Change", "%-0,16"
+    ],
+    "LBP", [
+        "Buying", "0,0018",
+        "Type", "Currency",
+        "Selling", "0,0018",
+        "Change", "%0,15"
+    ],
+    "LKR", [
+        "Buying", "0,0857",
+        "Type", "Currency",
+        "Selling", "0,0857",
+        "Change", "%0,06"
+    ],
+    "MAD", [
+        "Buying", "2,7039",
+        "Type", "Currency",
+        "Selling", "2,7056",
+        "Change", "%-0,16"
+    ],
+    "MDL", [
+        "Buying", "1,5357",
+        "Type", "Currency",
+        "Selling", "1,5366",
+        "Change", "%0,28"
+    ],
+    "MKD", [
+        "Buying", "0,4748",
+        "Type", "Currency",
+        "Selling", "0,4751",
+        "Change", "%0,05"
+    ],
+    "MYR", [
+        "Buying", "5,8699",
+        "Type", "Currency",
+        "Selling", "5,8735",
+        "Change", "%-0,20"
+    ],
+    "OMR", [
+        "Buying", "72,0967",
+        "Type", "Currency",
+        "Selling", "72,1406",
+        "Change", "%0,14"
+    ],
+    "PEN", [
+        "Buying", "7,2262",
+        "Type", "Currency",
+        "Selling", "7,2306",
+        "Change", "%0,16"
+    ],
+    "PHP", [
+        "Buying", "0,4888",
+        "Type", "Currency",
+        "Selling", "0,4891",
+        "Change", "%0,22"
+    ],
+    "PKR", [
+        "Buying", "0,0995",
+        "Type", "Currency",
+        "Selling", "0,1007",
+        "Change", "%0,60"
+    ],
+    "QAR", [
+        "Buying", "7,6202",
+        "Type", "Currency",
+        "Selling", "7,6307",
+        "Change", "%0,17"
+    ],
+    "RSD", [
+        "Buying", "0,2486",
+        "Type", "Currency",
+        "Selling", "0,2496",
+        "Change", "%-0,16"
+    ],
+    "SGD", [
+        "Buying", "20,2715",
+        "Type", "Currency",
+        "Selling", "20,2839",
+        "Change", "%0,19"
+    ],
+    "SYP", [
+        "Buying", "0,0021",
+        "Type", "Currency",
+        "Selling", "0,0021",
+        "Change", "%0,14"
+    ],
+    "THB", [
+        "Buying", "0,7657",
+        "Type", "Currency",
+        "Selling", "0,7661",
+        "Change", "%0,57"
+    ],
+    "TWD", [
+        "Buying", "0,8614",
+        "Type", "Currency",
+        "Selling", "0,8620",
+        "Change", "%0,20"
+    ],
+    "UAH", [
+        "Buying", "0,7626",
+        "Type", "Currency",
+        "Selling", "0,7631",
+        "Change", "%0,96"
+    ],
+    "UYU", [
+        "Buying", "0,6983",
+        "Type", "Currency",
+        "Selling", "0,6987",
+        "Change", "%0,72"
+    ],
+    "GEL", [
+        "Buying", "10,3760",
+        "Type", "Currency",
+        "Selling", "10,3823",
+        "Change", "%0,14"
+    ],
+    "TND", [
+        "Buying", "8,7392",
+        "Type", "Currency",
+        "Selling", "8,7446",
+        "Change", "%0,14"
+    ],
+    "BGN", [
+        "Buying", "14,8589",
+        "Type", "Currency",
+        "Selling", "15,0107",
+        "Change", "%0,01"
+    ],
+    "ons", [
+        "Buying", "$1.932,65",
+        "Type", "Gold",
+        "Selling", "$1.933,30",
+        "Change", "%3,43"
+    ]
+]

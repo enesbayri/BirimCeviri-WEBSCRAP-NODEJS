@@ -1,0 +1,37 @@
+
+body{
+    height: 130vh;
+    background-image: url("1.gif");
+    background-repeat: no-repeat;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#imgcolumn{
+    max-width: max-content;
+}
+#iconimg{
+    max-height: 13vh;
+    border-top-left-radius: 40%;
+    border-bottom-right-radius:40% ;
+    border-bottom-left-radius: 0%;
+}
+#anaDiv{
+    padding: 0px;
+}
+#icerikDiv {         
+    position: relative;
+    right: -48px;
+}
+@media (max-width:1000px) {
+    #anaDiv{
+        width: 100vw;
+    }
+    #icerikDiv {         
+        position: relative;
+        left: 0px;
+        width: 100vw;
+    
+    } }

@@ -1,0 +1,70 @@
+<form action="/" method="post">
+  <div class="card">
+    <div class="card-image">
+      <div class="control has-icons-left has-icons-right">
+        <input class="input is-large" name="miktar" type="number" placeholder="Dönüştürülecek Miktar">
+        <span class="icon is-medium is-left">
+          <i class="fa-solid fa-money-bill-transfer"></i>
+        </span>
+        <span class="icon is-medium is-right">
+          <i class="fa-solid fa-arrows-rotate"></i>
+        </span>
+      </div>
+      
+    </div>
+    <div class="card-content">
+      <div class="media">
+        <div class="media-content columns is-vcentered ">
+          
+            <div class="column has-text-centered">
+                <p class="bd-notification  has-text-centered is-primary title is-4 has-text-info pb-1">
+                    <div class="select is-link has-text-centered">
+                        <select name="neyden" class="neyden">
+                            <% dizi.forEach(element => { %>
+                                <option value=<%=element %>><%-element %></option>
+                            <% }) %>
+                        </select>
+                      </div>
+                </p>
+            </div>
+            <div class="column has-text-centered">
+              <div class="block"></div>
+              <p class="bd-notification is-primary has-text-centered title is-1 has-text-info pb-0">
+                <i class="fa-solid fa-arrows-rotate"></i>
+              </p>
+          </div>
+            <div class="column has-text-centered">
+                <p class="bd-notification is-primary has-text-centered title is-4 has-text-danger pb-1">
+                    <div class="select is-primary">
+                        <select name="neye">
+                            <% dizi.forEach(element => { %>
+                                <option value=<%=element %>><%-element %></option>
+                            <% }) %>
+                        </select>
+                      </div>
+                </p>
+            </div>
+        </div>
+      </div>
+  
+  </div>
+  <div class="block"></div>
+  <div class="block">
+    <input type="submit" id="donusturBtn" style="background-color: #1c658c;" class="button is-danger is-fullwidth" value="Dönüştür"></input>
+    </div>
+  <div class="card-content">
+    <div class="media">
+      <div class="media-content">
+        <p class="title is-4 has-text-info pb-0 is-size-1">
+          <% if (typeof sonuc!= "undefined") { %>
+              
+              <%=sonuc %>
+                  <span class="typewrite" style="color: red;" data-period="2000" data-words='[ " <%=birim%>", " <%=birim %>", " <%=birim%>"]'></span>    
+          
+          <% } %>
+        </p>
+      </div>
+    </div>
+
+  </div>
+</form>
